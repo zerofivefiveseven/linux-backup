@@ -2,3 +2,8 @@
 Файлы: aims.md, changelog.txt
 Что сделано: записан раздел целей.
 Зачем: правила проекта; aims.md 2026-11-09.
+
+[2026-11-10 01:29] Homepage и privacy policy для Linux Backup
+Файлы: index.html, privacy.html, changelog.txt
+Что сделано: статические страницы с описанием приложения и политикой конфиденциальности (drive.file, Limited Use, отзыв доступа).
+Зачем: Google требует homepage и privacy policy для Production; aims.md 2026-11-09, шаг 1.
